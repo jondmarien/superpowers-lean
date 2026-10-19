@@ -1,0 +1,14 @@
+{
+  "name": "superpowers-lean",
+  "version": "7.0.0-lean.1",
+  "description": "Token-lean fork of obra/superpowers skills and bootstrap for coding agents",
+  "type": "module",
+  "main": ".opencode/plugins/superpowers.js",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "workflow"
+  ]
+}

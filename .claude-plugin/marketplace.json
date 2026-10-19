@@ -1,0 +1,18 @@
+{
+  "name": "superpowers-lean-local",
+  "description": "Local marketplace for the superpowers-lean fork",
+  "owner": {
+    "name": "Jon Marien"
+  },
+  "plugins": [
+    {
+      "name": "superpowers-lean",
+      "description": "Token-lean fork of obra/superpowers: same TDD, debugging, brainstorming, planning and review workflows with a ~450-token bootstrap and cheaper subagent defaults",
+      "version": "7.0.0-lean.1",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent (upstream), lean fork by Jon Marien"
+      }
+    }
+  ]
+}

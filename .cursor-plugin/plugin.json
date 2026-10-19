@@ -1,0 +1,23 @@
+{
+  "name": "superpowers-lean",
+  "displayName": "Superpowers Lean",
+  "description": "Token-lean fork of obra/superpowers: same TDD, debugging, brainstorming, planning and review workflows with a ~450-token bootstrap and cheaper subagent defaults",
+  "version": "7.0.0-lean.1",
+  "author": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "homepage": "https://github.com/obra/superpowers",
+  "repository": "https://github.com/obra/superpowers",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "best-practices",
+    "workflows"
+  ],
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks-cursor.json"
+}
